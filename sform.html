@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>form</title>
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <script src=/bootstrap.min.js"></script>
+    <script src="js/jquery.min.js"></script>
+    <script src="js/jquery.min.js"></script>
+</head>
+<body>
+<div class="container pt-4">
+    <form action="#">
+        <h3>section 1</h3>
+        <div class="form-row">
+            <div class="form-group col-sm-6">
+                <label for="firstname"> first name</label>
+                <input type="text" name="firstname" placeholder="first name" id="firstname" class="form-control">
+            </div>
+
+<div class="form-group col-sm-6">
+    <label for="sname">second name</label>
+    <input type="text" name="sname" placeholder="second name" id="sname" class="form-control">
+</div>
+        </div>
+        <div class="form-row">
+            <div class="form-group col-sm-4">
+                <label for="nationality">nationality</label>
+                <input type="text" name="Nationality" placeholder="Nationality" class="form-control" id="nationality">
+            </div>
+            <div class="form-group col-sm-4">
+                <label for="city">city of residence</label>
+                <input type="text" name="" placeholder="" class="form-control" id="city">
+            </div>
+            <div class="form-group col-sm-4">
+                <label for="ident">Id No/Passport/birth certificate No</label>
+                <input type="text" name="ident" placeholder="id no" class="form-control" id="ident">
+            </div>
+
+        </div>
+        <div class="form-row">
+            <div class="form-group col-sm-6">
+                <label for="email">email</label>
+                <input type="email" name="email" placeholder="email" id="email" class="form-control">
+            </div>
+            <div class="form-group col-sm-6">
+                <label for="cell">Mobile Number</label>
+                <input type="phone number" name="phone number" placeholder="phone number" id="cell" class="form-control">
+            </div>
+
+        </div>
+        <div class="form-row">
+            <div class="form-group col-sm-6">
+                <label for="dob">date of Birth</label>
+                <input type="date" name="dob" id="dob" class="form-control">
+            </div>
+            <div class="form-group col-sm-6">
+                <label for="dis">disabilities</label>
+                <select  name="dis" class="form-control" id="dis">
+                    <option value="no">No</option>
+                    <option value="Yes">Yes</option>
+                </select>
+            </div>
+        </div>
+        <div class="form-row custom-control-inline" >
+            <div class="form-check-inline">
+                <input type="radio" class="form-check-input" id="male">
+                <label  class="form-check-label" for="male">male</label>
+            </div>
+            <div class="form-check-inline">
+                <input type="radio" class="form-check-input" id="female">
+                <label for="female" class="form-check-label">female</label>
+            </div>
+        </div>
+    </form>
+</div>
+</body>
+</html>

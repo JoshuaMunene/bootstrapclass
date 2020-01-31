@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="114a92e9-5fdb-4cdd-8e97-6c7b243ca9f4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WhzUnR0a7HsUXRGLwwnV3ShiQG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\USER\PhpstormProjects\Bootstrapafternoonclass\images" />
+      <recent name="C:\Users\USER\PhpstormProjects\Bootstrapafternoonclass" />
+      <recent name="C:\Users\USER\PhpstormProjects\Bootstrapafternoonclass\js" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="114a92e9-5fdb-4cdd-8e97-6c7b243ca9f4" name="Default Changelist" comment="" />
+      <created>1579616632191</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579616632191</updated>
+      <workItem from="1579616634506" duration="6857000" />
+      <workItem from="1579702472568" duration="8702000" />
+      <workItem from="1579788170595" duration="6364000" />
+      <workItem from="1579874147214" duration="1569000" />
+      <workItem from="1580134535555" duration="1287000" />
+      <workItem from="1580136556070" duration="1214000" />
+      <workItem from="1580138280648" duration="3190000" />
+      <workItem from="1580219066437" duration="2864000" />
+      <workItem from="1580222371595" duration="2116000" />
+      <workItem from="1580225603277" duration="2113000" />
+      <workItem from="1580229188439" duration="109000" />
+      <workItem from="1580308037523" duration="8043000" />
+      <workItem from="1580479438397" duration="2526000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="379" y="194" key="com.intellij.ide.util.TipDialog" timestamp="1580229272954">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="379" y="194" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1580229272954" />
+    <state x="339" y="167" key="run.anything.popup" timestamp="1579794874577">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="339" y="167" key="run.anything.popup/0.0.1366.738@0.0.1366.738" timestamp="1579794874577" />
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1580309197521">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1580309197521" />
+  </component>
+</project>
